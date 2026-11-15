@@ -1,0 +1,8 @@
+{
+  "nav": { "home": "Home", "search": "Search", "liked": "Liked", "downloads": "Downloads", "dashboard": "Dashboard", "settings": "Settings", "login": "Login", "register": "Register", "logout": "Logout" },
+  "landing": { "heroTitle": "Listen Without Limits", "heroSubtitle": "Millions of songs and videos. Free on My Hitz R-Cash.", "ctaPrimary": "Start Free", "ctaSecondary": "Login", "faqTitle": "Frequently Asked Questions" },
+  "auth": { "login": "Log In", "register": "Register", "username": "Username", "password": "Password", "email": "Email", "confirmPassword": "Confirm Password", "fullName": "Full Name", "continueGoogle": "Continue with Google", "continueSpotify": "Continue with Spotify", "continueApple": "Continue with Apple", "or": "OR", "noAccount": "Don't have an account?", "haveAccount": "Already have an account?", "forgotPassword": "Forgot password?" },
+  "player": { "nowPlaying": "Now Playing", "noSong": "No song playing" },
+  "mascot": { "question": "Is there a problem?", "yes": "Yes, I have a problem", "no": "No, I'm okay", "thanks": "Happy to help!" },
+  "common": { "search": "Search artists, songs, or videos...", "play": "Play", "pause": "Pause" }
+}
