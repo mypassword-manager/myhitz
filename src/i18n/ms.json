@@ -1,0 +1,8 @@
+{
+  "nav": { "home": "Utama", "search": "Cari", "liked": "Digemari", "downloads": "Muat Turun", "dashboard": "Papan Pemuka", "settings": "Tetapan", "login": "Log Masuk", "register": "Daftar", "logout": "Log Keluar" },
+  "landing": { "heroTitle": "Dengar Tanpa Had", "heroSubtitle": "Berjuta lagu dan video. Percuma di My Hitz R-Cash.", "ctaPrimary": "Mula Percuma", "ctaSecondary": "Log Masuk", "faqTitle": "Soalan Lazim" },
+  "auth": { "login": "Log Masuk", "register": "Daftar", "username": "Nama Pengguna", "password": "Kata Laluan", "email": "E-mel", "confirmPassword": "Sahkan Kata Laluan", "fullName": "Nama Penuh", "continueGoogle": "Teruskan dengan Google", "continueSpotify": "Teruskan dengan Spotify", "continueApple": "Teruskan dengan Apple", "or": "ATAU", "noAccount": "Belum ada akaun?", "haveAccount": "Sudah ada akaun?", "forgotPassword": "Lupa kata laluan?" },
+  "player": { "nowPlaying": "Sedang Dimainkan", "noSong": "Tiada lagu dimainkan" },
+  "mascot": { "question": "Ada masalah atau tak?", "yes": "Ada masalah", "no": "Tak, okay", "thanks": "Seronok dapat membantu!" },
+  "common": { "search": "Cari artis, lagu, atau video...", "play": "Main", "pause": "Jeda" }
+}
